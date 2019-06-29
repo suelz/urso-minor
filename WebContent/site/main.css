@@ -1,0 +1,43 @@
+img{
+  width: 30%;
+  float: left;
+  margin: 1.66%
+}
+
+.test{
+  text-align: center;
+}
+
+.form-group{
+  margin: 0 auto;
+  width: 50%;
+}
+
+.name{
+  padding-left: 25%;
+  margin: 0 auto;
+  width: 25%;
+  float: left;
+}
+
+.center{
+  margin:0 auto;
+}
+
+.checkbox{
+  margin: 0 auto;
+}
+#poster {
+	width: 20%;
+	height: 200px;
+}
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+div.gallery {
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
